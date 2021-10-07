@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # ## Método da bisseção
 #
 # É o método mais simples para encontrar raiz, depende de zerar uma raiz e ir repetidamente bisseccionando um intervalo e usando o teorema do valor médio.
@@ -25,10 +22,6 @@
 # ## Questão 1
 # Reproduza os resultados vistos em aula. Use os métodos de Newton e da bisseção para encontrar
 # todas as raízes da equação: $\sin(x) = \alpha \cdot x $ para $\alpha = 0.1 $. São 7 raízes, encontre todas!
-#
-
-# In[12]:
-
 
 #bibliotecas
 import numpy as np
